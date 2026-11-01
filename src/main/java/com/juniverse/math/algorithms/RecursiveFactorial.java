@@ -35,7 +35,6 @@ public class RecursiveFactorial implements FactorialStrategy {
         return "Recursivo";
     }
 
-    /** Indica si la estrategia admite números grandes. */
     @Override
     public boolean supportsLargeNumbers() {
         return false;

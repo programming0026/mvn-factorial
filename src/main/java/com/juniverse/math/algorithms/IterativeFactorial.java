@@ -35,7 +35,6 @@ public class IterativeFactorial implements FactorialStrategy {
         return "Iterativo";
     }
 
-    /** Indica si la estrategia admite números grandes. */
     @Override
     public boolean supportsLargeNumbers() {
         return false;

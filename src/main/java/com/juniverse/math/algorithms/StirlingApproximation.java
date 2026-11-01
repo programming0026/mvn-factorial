@@ -44,7 +44,6 @@ public class StirlingApproximation implements FactorialStrategy {
         return "Aproximación de Stirling";
     }
 
-    /** Indica si la estrategia admite números grandes. */
     @Override
     public boolean supportsLargeNumbers() {
         return true;

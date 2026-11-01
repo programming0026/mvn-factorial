@@ -17,6 +17,5 @@ public interface FactorialStrategy {
     /** Nombre descriptivo de la estrategia. */
     String getName();
 
-    /** Indica si la estrategia admite números grandes. */
     boolean supportsLargeNumbers();
 }

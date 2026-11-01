@@ -35,7 +35,6 @@ public class BigIntegerFactorial implements FactorialStrategy {
         return "BigInteger";
     }
 
-    /** Indica si la estrategia admite números grandes. */
     @Override
     public boolean supportsLargeNumbers() {
         return true;

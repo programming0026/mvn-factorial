@@ -76,7 +76,6 @@ public class OptimizedFactorial implements FactorialStrategy {
         return "Optimizado (Divide y Vencerás + Caché)";
     }
 
-    /** Indica si la estrategia admite números grandes. */
     @Override
     public boolean supportsLargeNumbers() {
         return true;
