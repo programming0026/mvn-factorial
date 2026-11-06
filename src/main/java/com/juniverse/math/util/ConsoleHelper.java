@@ -6,7 +6,7 @@ import java.nio.charset.StandardCharsets;
 /**
  * Salida por consola en UTF-8 para que se vean bien los acentos.
  *
- * @author ajuar
+ * @author Java Universe
  */
 public final class ConsoleHelper {
 

@@ -6,7 +6,7 @@ import java.util.Locale;
  * Estimación de n! con la fórmula de Stirling: n! ≈ √(2πn)·(n/e)ⁿ.
  * Devuelve notación científica (mantisa y exponente), por lo que no tiene límite de tamaño.
  *
- * @author ajuar
+ * @author Java Universe
  */
 public class StirlingApproximation implements FactorialStrategy {
 

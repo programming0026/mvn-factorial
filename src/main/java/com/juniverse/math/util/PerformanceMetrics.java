@@ -3,7 +3,7 @@ package com.juniverse.math.util;
 /**
  * Mide el tiempo y la memoria aproximada que consume un cálculo.
  *
- * @author ajuar
+ * @author Java Universe
  */
 public class PerformanceMetrics {
 

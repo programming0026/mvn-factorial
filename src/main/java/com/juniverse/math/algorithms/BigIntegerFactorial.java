@@ -3,7 +3,7 @@ package com.juniverse.math.algorithms;
 /**
  * Factorial exacto con {@link java.math.BigInteger} mediante un bucle de multiplicaciones (n ≤ 10000).
  *
- * @author ajuar
+ * @author Java Universe
  */
 public class BigIntegerFactorial implements FactorialStrategy {
 

@@ -7,7 +7,7 @@ import com.juniverse.math.util.ConsoleHelper;
 /**
  * Demostración: compara las estrategias con números pequeños y grandes y mide tiempo y memoria.
  *
- * @author ajuar
+ * @author Java Universe
  */
 public class Main {
 

@@ -6,7 +6,7 @@ import com.juniverse.math.util.PerformanceMetrics;
 /**
  * Calculadora que permite elegir y comparar distintas estrategias de factorial.
  *
- * @author ajuar
+ * @author Java Universe
  */
 public class FactorialCalculator {
     private final java.util.Map<String, FactorialStrategy> strategies;

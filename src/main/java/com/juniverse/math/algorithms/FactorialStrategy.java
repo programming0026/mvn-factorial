@@ -3,7 +3,7 @@ package com.juniverse.math.algorithms;
 /**
  * Estrategia para calcular el factorial (patrón Strategy).
  *
- * @author ajuar
+ * @author Java Universe
  */
 public interface FactorialStrategy {
 

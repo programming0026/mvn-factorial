@@ -4,7 +4,7 @@ package com.juniverse.math.algorithms;
  * Factorial exacto con BigInteger usando divide y vencerás (producto por mitades,
  * que multiplica números de tamaño parecido) y una caché de resultados.
  *
- * @author ajuar
+ * @author Java Universe
  */
 public class OptimizedFactorial implements FactorialStrategy {
 

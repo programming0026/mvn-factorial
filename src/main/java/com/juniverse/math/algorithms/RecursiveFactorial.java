@@ -3,7 +3,7 @@ package com.juniverse.math.algorithms;
 /**
  * Factorial recursivo con {@code long}; exacto hasta n = 20.
  *
- * @author ajuar
+ * @author Java Universe
  */
 public class RecursiveFactorial implements FactorialStrategy {
 
